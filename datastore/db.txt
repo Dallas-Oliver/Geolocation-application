@@ -1,0 +1,11 @@
+{"lat":42.7103645,"lon":-84.56824069999999,"name":"Dallas","_id":"3k4zFjfEGUultkv1"}
+{"lat":42.7103262,"lon":-84.5682495,"name":"Dallas","timestamp":"2019-06-05T14:57:16.625Z","_id":"7UBf1eHNDDfKEQtN"}
+{"lat":42.7103499,"lon":-84.568299,"name":"Dallas","_id":"Ka3sUBRyhIGptsrs"}
+{"lat":42.7103593,"lon":-84.56823759999999,"_id":"WiOyfTMZjDuO0oAq"}
+{"lat":42.710309599999995,"lon":-84.5682719,"name":"Dallas","_id":"WvbZZJ7CANcZCCP2"}
+{"lat":42.7103636,"lon":-84.5682388,"name":"Dallas","timestamp":"2019-06-05T15:30:48.741Z","_id":"cfdHDUaLsjOcUxCe"}
+{"lat":42.710358,"lon":-84.5682704,"name":"Dallas","_id":"f3aPybEG2muJzFRP"}
+{"lat":42.7103635,"lon":-84.5682559,"name":"Dallas","_id":"qAHQXzH2Nm46cQVN"}
+{"lat":42.7103636,"lon":-84.5682388,"name":"Dallas","timestamp":"2019-06-05T15:30:44.017Z","_id":"qgOYmO1jYnXBfvaE"}
+{"lat":42.710340699999996,"lon":-84.5682485,"name":"Dallas","timestamp":"2019-06-05T15:21:04.015Z","_id":"tlpZsgC6lMDS5wtV"}
+{"lat":42.7103489,"lon":-84.5682507,"name":"Dallas","timestamp":"2019-06-05T15:02:49.787Z","_id":"xxZwOyYo2gOnkxcj"}

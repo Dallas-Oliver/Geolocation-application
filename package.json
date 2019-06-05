@@ -1,0 +1,17 @@
+{
+  "name": "geolocationdb",
+  "version": "1.0.0",
+  "description": "application for receiving and storing data about your ip's location",
+  "main": "index.js",
+  "scripts": {
+    "mon": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0",
+    "nodemon": "^1.19.1"
+  }
+}
